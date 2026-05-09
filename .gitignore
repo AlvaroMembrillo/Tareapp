@@ -1,6 +1,14 @@
 # Compiled class file
 *.class
 
+# Maven
+target/
+
+# Archivos de configuración de Eclipse/STS
+.classpath
+.project
+.settings/
+
 # Log file
 *.log
 
